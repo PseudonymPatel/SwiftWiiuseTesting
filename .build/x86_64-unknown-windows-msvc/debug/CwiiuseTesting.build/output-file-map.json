@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\master.swiftdeps"
+  },
+  "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Sources\\CwiiuseTesting\\main.swift": {
+    "dependencies": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main.d",
+    "object": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main.swift.o",
+    "swiftmodule": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main.swiftdeps"
+  }
+}

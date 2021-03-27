@@ -1,0 +1,5 @@
+version: "compnerd.org Swift version 5.4-dev (LLVM 798a505f5bc4a05, Swift 7f7978370b08812)"
+options: "abfb0fd2ab2a80f95db4d360a7a06105"
+build_time: [1616887455, 75451000]
+inputs:
+  "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Sources\\CwiiuseTesting\\main.swift": [1616855892, 948089800]

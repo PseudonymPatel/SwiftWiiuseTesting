@@ -1,0 +1,1 @@
+{"object": {"artifacts": [], "dependencies": [{"basedOn": null, "packageRef": {"identity": "cwiiuse", "kind": "local", "location": "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Cwiiuse", "name": "Cwiiuse"}, "state": {"name": "local"}, "subpath": "cwiiuse"}]}, "version": 4}

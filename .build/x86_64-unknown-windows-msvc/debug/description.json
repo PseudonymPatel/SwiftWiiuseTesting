@@ -1,0 +1,235 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.xctest",
+      "packageName" : "CwiiuseTesting",
+      "productName" : "CwiiuseTestingPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.CwiiuseTesting-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Sources\\CwiiuseTesting\\main.swift"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "CwiiuseTesting",
+      "moduleOutputPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\CwiiuseTesting.swiftmodule",
+      "objects" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+        "-use-ld=lld",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Cwiiuse\\Sources\\Cwiiuse\\module.modulemap",
+        "-module-cache-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build\\CwiiuseTesting.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Sources\\CwiiuseTesting\\main.swift"
+      ],
+      "tempsPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.build",
+      "WMO" : false
+    },
+    "C.CwiiuseTestingPackageTests-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\CwiiuseTestingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "CwiiuseTestingPackageTests",
+      "moduleOutputPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\CwiiuseTestingPackageTests.swiftmodule",
+      "objects" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\CwiiuseTestingTests.swift.o",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\main.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+        "-use-ld=lld",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Cwiiuse\\Sources\\Cwiiuse\\module.modulemap",
+        "-module-cache-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\CwiiuseTestingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build\\CwiiuseTestingPackageTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\CwiiuseTestingTests.swift",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\main.swift"
+      ],
+      "tempsPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.build",
+      "WMO" : false
+    },
+    "C.CwiiuseTestingTests-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Tests\\CwiiuseTestingTests\\CwiiuseTestingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTesting.exe"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CwiiuseTestingTests",
+      "moduleOutputPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.swiftmodule",
+      "objects" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.build\\CwiiuseTestingTests.swift.o"
+      ],
+      "otherArgs" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+        "-use-ld=lld",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-Xcc",
+        "-fmodule-map-file=C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Cwiiuse\\Sources\\Cwiiuse\\module.modulemap",
+        "-module-cache-path",
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.build\\CwiiuseTestingTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\Tests\\CwiiuseTestingTests\\CwiiuseTestingTests.swift"
+      ],
+      "tempsPath" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.build",
+      "WMO" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+    "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\main.swift" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingTests.build\\CwiiuseTestingTests.swift.o"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\CwiiuseTestingTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\Sheen\\Swift\\CwiiuseTesting\\.build\\x86_64-unknown-windows-msvc\\debug\\CwiiuseTestingPackageTests.derived\\main.swift"
+        }
+      ]
+    }
+  }
+}
